@@ -1,4 +1,5 @@
 const section = document.querySelector('section');
+const aside = document.querySelector('aside');
 
 let requestURL = 'https://spacemanrc.github.io/ccan2020index/ccan2020index.json';
 let request = new XMLHttpRequest();
@@ -16,6 +17,7 @@ function showArt(obj) {
 
   for(let i = 0; i < art_piece.length; i++) {
     const myArticle = document.createElement('article');
+    const myInfo = document.createElement('p');
     const myH3 = document.createElement('h3');
     const myPara1 = document.createElement('p');
     const myPara2 = document.createElement('p');
@@ -33,12 +35,14 @@ function showArt(obj) {
 
 
     myArticle.appendChild(myH3);
-    myArticle.appendChild(myPara1);
-    myArticle.appendChild(myPara2);
-    myArticle.appendChild(myPara3);
+    myInfo.appendChild(myPara1);
+    myInfo.appendChild(myPara2);
+    myInfo.appendChild(myPara3);
     myArticle.appendChild(line);
 
     section.appendChild(myArticle);
+    section.appendChild(myInfo);
+    section.appendChild(line);
 
   }
 }
