@@ -1,6 +1,6 @@
 const section = document.querySelector('section');
 
-let requestURL = 'ccan2020index.json';
+let requestURL = 'https://spacemanrc.github.io/ccan2020index/ccan2020index.json';
 let request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
@@ -12,7 +12,7 @@ request.onload = function() {
 }
 
 function showArt(obj) {
-  const art_piece = obj['members'];
+  const art_piece = obj['pieces'];
 
   for(let i = 0; i < art_piece.length; i++) {
     const myArticle = document.createElement('article');
