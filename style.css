@@ -11,8 +11,9 @@
 /* On screens that are 600px wide or less, the background color is olive */
 @media screen and (max-width: 600px) {
   body {
+    text-align: center;
     color: black;
-    font-family: 'Sofia'
+    font-family: 'Times New Roman', 'Sofia';
   }
 }
 /* ------------------------------*/

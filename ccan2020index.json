@@ -1,0 +1,1181 @@
+[
+    {
+        "winner": "",
+        "number": 1.0,
+        "title": "Chapter 18",
+        "artist": "Nancy Barnard",
+        "city": "Midland, TX",
+        "medium": "Oil on Canvas",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 2.0,
+        "title": "Beauty Within",
+        "artist": "Stephanie Prosser",
+        "city": "Baird, TX",
+        "medium": "Mixed Media 2D",
+        "price": 2300.0
+    },
+    {
+        "winner": "",
+        "number": 3.0,
+        "title": "UFO 12",
+        "artist": "Kevin Haran",
+        "city": "Oviedo, FL",
+        "medium": "Charcoal, Ink, Watercolor",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 4.0,
+        "title": "People Puzzle",
+        "artist": "Carol Taylor",
+        "city": "Graham, TX",
+        "medium": "Acrylic on Canvas",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 5.0,
+        "title": "Dolce Vita",
+        "artist": "Jennye Stubblefield",
+        "city": "San Antonio, TX",
+        "medium": "Oil on Linen",
+        "price": 2000.0
+    },
+    {
+        "winner": "*",
+        "number": 6.0,
+        "title": "Biomorphic",
+        "artist": "Kristen Franyutti",
+        "city": "Jonesboro, AR",
+        "medium": "Thread, Beads, Gouache, Fabric, Pen on Digital Print",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 7.0,
+        "title": "MOMA study #1, San Francisco",
+        "artist": "Michael Ligett",
+        "city": "Cary, NC",
+        "medium": "Limited Edition Archival Photograph",
+        "price": 450.0
+    },
+    {
+        "winner": "",
+        "number": 8.0,
+        "title": "Corona Madness",
+        "artist": "Kim Naegle Anderson",
+        "city": "Rising Star, TX",
+        "medium": "Mixed Media",
+        "price": 425.0
+    },
+    {
+        "winner": "",
+        "number": 9.0,
+        "title": "I Lost My Marbles",
+        "artist": "Steve Hart",
+        "city": "Abilene, TX",
+        "medium": "Digital Art on Canvas",
+        "price": 125.0
+    },
+    {
+        "winner": "",
+        "number": 10.0,
+        "title": "Cultivars",
+        "artist": "Isabel Lee-Rosson",
+        "city": "Rockwall, TX",
+        "medium": "Mixed Media on Wood Panel, Made of Recycled Materials",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 11.0,
+        "title": "Walk in Joy",
+        "artist": "April Rifenburgh",
+        "city": "Merkel, TX",
+        "medium": "Oil",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 12.0,
+        "title": "Time To Wake Up",
+        "artist": "Liz Wiley",
+        "city": "Dallas, TX",
+        "medium": "Acrylic on Canvas",
+        "price": 1025.0
+    },
+    {
+        "winner": "",
+        "number": 13.0,
+        "title": "I\u2019m here my love",
+        "artist": "Olasubomi Bashorun",
+        "city": "Clarksville, TN",
+        "medium": "Acrylic",
+        "price": 10368.0
+    },
+    {
+        "winner": "",
+        "number": 14.0,
+        "title": "Nightfall",
+        "artist": "Deborah Brand",
+        "city": "Waxahachie, TX",
+        "medium": "Acrylic on Canvas",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 15.0,
+        "title": "#19",
+        "artist": "Julia Six",
+        "city": "Abilene, TX",
+        "medium": "Vellum, Interior House Paint, Sharpie",
+        "price": 150.0
+    },
+    {
+        "winner": "",
+        "number": 16.0,
+        "title": "Sing Like You're in Love with Someone",
+        "artist": "Joe McHale",
+        "city": "Kearney, NE",
+        "medium": "Acrylic",
+        "price": 1400.0
+    },
+    {
+        "winner": "*",
+        "number": 17.0,
+        "title": "Almost There",
+        "artist": "Charles Roach",
+        "city": "Merkel, TX",
+        "medium": "Acrylic on Masonite",
+        "price": 1750.0
+    },
+    {
+        "winner": "",
+        "number": 18.0,
+        "title": "He Dreams About The Birds And Blue Skies",
+        "artist": "Donna Dangott",
+        "city": "College Station, TX",
+        "medium": "Archival Pigment Print of Manipulated Digital Photograph",
+        "price": 475.0
+    },
+    {
+        "winner": "",
+        "number": 19.0,
+        "title": "Dusk at the Forgotten Chute",
+        "artist": "Jack Harkins",
+        "city": "Abilene, TX",
+        "medium": "Acrylic on Canvas",
+        "price": 850.0
+    },
+    {
+        "winner": "",
+        "number": 20.0,
+        "title": "Friendly Warning",
+        "artist": "Mike Lanier",
+        "city": "Abilene, TX",
+        "medium": "Oil on Canvas",
+        "price": 6900.0
+    },
+    {
+        "winner": "*",
+        "number": 21.0,
+        "title": "Swimmer",
+        "artist": "Anton Hoeger",
+        "city": "Canton, TX",
+        "medium": "Oil on Canvas",
+        "price": 65000.0
+    },
+    {
+        "winner": "",
+        "number": 22.0,
+        "title": "It's Vegan",
+        "artist": "Victoria Gonzales",
+        "city": "Boerne, TX",
+        "medium": "Oil on Canvas",
+        "price": 2000.0
+    },
+    {
+        "winner": "*",
+        "number": 23.0,
+        "title": "Blood Moon in the Swamp Lands",
+        "artist": "Lydia Dildilian",
+        "city": "Green Bay, WI",
+        "medium": "Acrylic Painting",
+        "price": 1500.0
+    },
+    {
+        "winner": "*",
+        "number": 24.0,
+        "title": "D80 Diptychs. Arcs 2",
+        "artist": "Nicholas Wood",
+        "city": "Arlington, TX",
+        "medium": "Pastels, Charcoal, Graphite on Paper",
+        "price": 2500.0
+    },
+    {
+        "winner": "",
+        "number": 25.0,
+        "title": "Hexagrams 01",
+        "artist": "Francis Byrne",
+        "city": "West Hartford, CT",
+        "medium": "Digital Photography",
+        "price": 200.0
+    },
+    {
+        "winner": "",
+        "number": 26.0,
+        "title": "Inferno Fields",
+        "artist": "Tyrone Webb",
+        "city": "Allentown, PA",
+        "medium": "Spray Paint on Canvas",
+        "price": 2000.0
+    },
+    {
+        "winner": "*",
+        "number": 27.0,
+        "title": "Armadillo Sunset",
+        "artist": "Trish Poupard",
+        "city": "Celina, TX",
+        "medium": "Watercolor",
+        "price": 1250.0
+    },
+    {
+        "winner": "",
+        "number": 28.0,
+        "title": "Tulips",
+        "artist": "Muthulakshmi Narasimhan",
+        "city": "Oakton, VA",
+        "medium": "Pastel",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 29.0,
+        "title": "Swing I",
+        "artist": "Kristin Herzog",
+        "city": "Estero, FL",
+        "medium": "Acrylic and Watercolor on Paper",
+        "price": 1500.0
+    },
+    {
+        "winner": "",
+        "number": 30.0,
+        "title": "Split Piece",
+        "artist": "Larry Millar",
+        "city": "Abilene, TX",
+        "medium": "Oak, Mesquite and 72-82 Million Year Old Fossil Wood",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 31.0,
+        "title": "Consider The Lilies",
+        "artist": "Kay Wirz",
+        "city": "Granbury, TX",
+        "medium": "Acrylic",
+        "price": 1600.0
+    },
+    {
+        "winner": "",
+        "number": 32.0,
+        "title": "The Blue Heron Takes a Stroll",
+        "artist": "Ron Thomas",
+        "city": "Lubbock, TX",
+        "medium": "Computer Enhanced Digital Photography",
+        "price": 300.0
+    },
+    {
+        "winner": "",
+        "number": 33.0,
+        "title": "Tentative",
+        "artist": "Natalie Lambert",
+        "city": "Irving, TX",
+        "medium": "Charcoal, Acrylic, Oil and Sand on Canvas Mounted on Wood Panel",
+        "price": 1000.0
+    },
+    {
+        "winner": "",
+        "number": 34.0,
+        "title": "Again!  October 6, 2018",
+        "artist": "Brenda Shaw",
+        "city": "Mullin, TX",
+        "medium": "Acrylic",
+        "price": 300.0
+    },
+    {
+        "winner": "*",
+        "number": 35.0,
+        "title": "Untitled (Devdog's Basement)",
+        "artist": "Aria Brownell",
+        "city": "Austin, TX",
+        "medium": "Oil on Linen",
+        "price": 3200.0
+    },
+    {
+        "winner": "",
+        "number": 36.0,
+        "title": "Care to Join Me?",
+        "artist": "Julianne Larsen",
+        "city": "Lakewood, CO",
+        "medium": "Photography, with Digital Manipulation",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 37.0,
+        "title": "Heal Thyself",
+        "artist": "Elise Techentine",
+        "city": "Granbury, TX",
+        "medium": "Assemblage",
+        "price": 675.0
+    },
+    {
+        "winner": "",
+        "number": 38.0,
+        "title": "Green Pelican",
+        "artist": "Keith Williams",
+        "city": "Dallas, TX",
+        "medium": "Acrylic on Canvas",
+        "price": 1000.0
+    },
+    {
+        "winner": "",
+        "number": 39.0,
+        "title": "Magic Swim",
+        "artist": "Kacy Latham",
+        "city": "Munday, TX",
+        "medium": "Acrylic, Enamel",
+        "price": 3450.0
+    },
+    {
+        "winner": "*",
+        "number": 40.0,
+        "title": "In The Grass",
+        "artist": "Jane Walker",
+        "city": "Houston, TX",
+        "medium": "Framed Archival Pigment Print",
+        "price": 600.0
+    },
+    {
+        "winner": "",
+        "number": 41.0,
+        "title": "It's All Rainbows\u2026",
+        "artist": "Natalie Campbell",
+        "city": "Fort Worth, TX",
+        "medium": "Oil on Wood Board",
+        "price": 2500.0
+    },
+    {
+        "winner": "",
+        "number": 42.0,
+        "title": "David",
+        "artist": "Larry Hamilton",
+        "city": "Wichita Falls, TX",
+        "medium": "Oil",
+        "price": 10000.0
+    },
+    {
+        "winner": "*",
+        "number": 43.0,
+        "title": "Needed Funk",
+        "artist": "Karen Sienk",
+        "city": "Colden, NY",
+        "medium": "Fiber",
+        "price": 500.0
+    },
+    {
+        "winner": "*",
+        "number": 44.0,
+        "title": "Cat Attack Horror!",
+        "artist": "Freddy Gonzales",
+        "city": "Abilene, TX",
+        "medium": "Digital Collage",
+        "price": 200.0
+    },
+    {
+        "winner": "",
+        "number": 45.0,
+        "title": "Lake Process 4",
+        "artist": "Chris Cinque",
+        "city": "Minneapolis, MN",
+        "medium": "Acrylic on Canvas",
+        "price": 875.0
+    },
+    {
+        "winner": "",
+        "number": 46.0,
+        "title": "A FRENZY OF DESIRE",
+        "artist": "R.D. Mitchell",
+        "city": "Plano, TX",
+        "medium": "Oil on Baltic Birch Panel",
+        "price": 2400.0
+    },
+    {
+        "winner": "",
+        "number": 47.0,
+        "title": "Caribou Porch",
+        "artist": "Bev Haring",
+        "city": "Longmont, CO",
+        "medium": "Fiber",
+        "price": 1000.0
+    },
+    {
+        "winner": "",
+        "number": 48.0,
+        "title": "Pleasure Reading",
+        "artist": "Edward Shmunes",
+        "city": "Columbia, SC",
+        "medium": "Photography",
+        "price": 275.0
+    },
+    {
+        "winner": "",
+        "number": 49.0,
+        "title": "Earth Cabin 1900",
+        "artist": "Jack Chisholm",
+        "city": "Abilene, TX",
+        "medium": "Ink",
+        "price": 600.0
+    },
+    {
+        "winner": "",
+        "number": 50.0,
+        "title": "The Pale Horse Prophecy",
+        "artist": "Jade Lowder",
+        "city": "Bozeman, MT",
+        "medium": "Oil on Panel",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 51.0,
+        "title": "Under the Same Star",
+        "artist": "Kathy Bussert-Webb",
+        "city": "Olmito, TX",
+        "medium": "Mixed Media",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 52.0,
+        "title": "168 Hours",
+        "artist": "Quincey (Makayla) Miracle",
+        "city": "Spokane, WA",
+        "medium": "Graphite on paper and pins in handmade shadowbox",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 53.0,
+        "title": "Layer, 2020",
+        "artist": "Joel McGlasson",
+        "city": "Houston, TX",
+        "medium": "Acrylic Paint on Canvas",
+        "price": 2000.0
+    },
+    {
+        "winner": "",
+        "number": 54.0,
+        "title": "Ribbon Candy Dish",
+        "artist": "Christi Kuppin",
+        "city": "Buffalo Gap, TX",
+        "medium": "Cone 6 Porcelain",
+        "price": 125.0
+    },
+    {
+        "winner": "",
+        "number": 55.0,
+        "title": "Undergrowth",
+        "artist": "Stephanie Chambers",
+        "city": "Temple, TX",
+        "medium": "Mixed Media on Paper",
+        "price": "NFS"
+    },
+    {
+        "winner": "",
+        "number": 56.0,
+        "title": "Musical Chair",
+        "artist": "Robert Reed",
+        "city": "Charleston, SC",
+        "medium": "Oil on Canvas",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 57.0,
+        "title": "Insurgence",
+        "artist": "Madeline Ortega",
+        "city": "Euless, TX",
+        "medium": "Arrowhead, Tulip Bulb",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 58.0,
+        "title": "Annunciation, Room Nine",
+        "artist": "Patricia Munford",
+        "city": "Richmond, VA",
+        "medium": "Photography",
+        "price": 300.0
+    },
+    {
+        "winner": "",
+        "number": 59.0,
+        "title": "Beach House, 2020",
+        "artist": "Mimi Dobelle",
+        "city": "New York, NY",
+        "medium": "Oil Pastel on iPhone Collage Printed onto Foam Board",
+        "price": 7000.0
+    },
+    {
+        "winner": "",
+        "number": 60.0,
+        "title": "View from Evergreen 3",
+        "artist": "Matthew Lindstrom",
+        "city": "Lakewood, CO",
+        "medium": "Acrylic",
+        "price": 300.0
+    },
+    {
+        "winner": "",
+        "number": 61.0,
+        "title": "Dust Bowl Farmer Dreaming of Peace Blossoms",
+        "artist": "Anthony Brown",
+        "city": "Abilene, TX",
+        "medium": "Mixed (Acrylic, Oil, Pastel, Wood, etc.)",
+        "price": 700.0
+    },
+    {
+        "winner": "",
+        "number": 62.0,
+        "title": "Sadistic Smile",
+        "artist": "Hector Del Campo",
+        "city": "Lafayette, IN",
+        "medium": "Acrylic, Enamel & Spray Paints on Watercolor Paper on Canvas",
+        "price": 550.0
+    },
+    {
+        "winner": "",
+        "number": 63.0,
+        "title": "Finding  Peace in Chaotic Struggle",
+        "artist": "Andrea Kostyal",
+        "city": "Hattiesburg, MS",
+        "medium": "Mixed Media Oil",
+        "price": 3000.0
+    },
+    {
+        "winner": "",
+        "number": 64.0,
+        "title": "le Ciel",
+        "artist": "Patricia Aaron",
+        "city": "Greenwood Village, CO",
+        "medium": "Encaustic and Mixed Media on Three Joined Custom Panels",
+        "price": 7000.0
+    },
+    {
+        "winner": "",
+        "number": 65.0,
+        "title": "Graft",
+        "artist": "Jen Watson",
+        "city": "Provo, UT",
+        "medium": "Screenprint",
+        "price": 500.0
+    },
+    {
+        "winner": "",
+        "number": 66.0,
+        "title": "Crop Circle Verdant Three",
+        "artist": "Robin Ragin",
+        "city": "Dallas, TX",
+        "medium": "Oil on Canvas",
+        "price": 950.0
+    },
+    {
+        "winner": "",
+        "number": 67.0,
+        "title": "Land Escape",
+        "artist": "Russell Ellison",
+        "city": "Abilene, TX",
+        "medium": "Acrylic & Silica",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 68.0,
+        "title": "Made in Earth",
+        "artist": "Lyudmila Tomova",
+        "city": "Cary, NC",
+        "medium": "Oil",
+        "price": 1500.0
+    },
+    {
+        "winner": "",
+        "number": 69.0,
+        "title": "Wrapped Bird",
+        "artist": "Toni Elkins",
+        "city": "Columbia, SC",
+        "medium": "Watercolor",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 70.0,
+        "title": "The Passers-By",
+        "artist": "Walker Wellborn",
+        "city": "Abilene, TX",
+        "medium": "Oil on Canvas",
+        "price": 4200.0
+    },
+    {
+        "winner": "",
+        "number": 71.0,
+        "title": "Petrichor",
+        "artist": "Nahida Akhter",
+        "city": "Abilene, TX",
+        "medium": "Acrylic on Canvas Paper",
+        "price": 300.0
+    },
+    {
+        "winner": "",
+        "number": 72.0,
+        "title": "Beehives",
+        "artist": "Sue Lezon",
+        "city": "Chazy, NY",
+        "medium": "Digital Photography",
+        "price": 300.0
+    },
+    {
+        "winner": "",
+        "number": 73.0,
+        "title": "Urban Canyonlands",
+        "artist": "Charles Hukill",
+        "city": "Abilene, TX",
+        "medium": "Oil",
+        "price": 700.0
+    },
+    {
+        "winner": "",
+        "number": 74.0,
+        "title": "The Writing's on the Wall, 1",
+        "artist": "Brandin Bar\u00f3n",
+        "city": "San Francisco, CA",
+        "medium": "Digital Illustration/Relief Print on Paper with Mixed Media",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 75.0,
+        "title": "Quartz",
+        "artist": "Lissy Edwards",
+        "city": "Hattiesburg, MS",
+        "medium": "Low Fire Porcelain and Colored Slip; Low Fire Glaze.",
+        "price": 600.0
+    },
+    {
+        "winner": "",
+        "number": 76.0,
+        "title": "Birken Overpass",
+        "artist": "Erica Lee",
+        "city": "Houston, TX",
+        "medium": "Acrylic, Cork, Leather, Sand",
+        "price": 900.0
+    },
+    {
+        "winner": "",
+        "number": 77.0,
+        "title": "Surreal Passages from Terlingua",
+        "artist": "Winter Rusiloski",
+        "city": "West, TX",
+        "medium": "Oil Paint and Collage on Canvas",
+        "price": 6000.0
+    },
+    {
+        "winner": "",
+        "number": 78.0,
+        "title": "OVERCAST",
+        "artist": "Cathie Tyler",
+        "city": "Mason, TX",
+        "medium": "Oil on Canvas",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 79.0,
+        "title": "The Heavens Proclaim the Glory of God",
+        "artist": "Ruth Jackson",
+        "city": "Abilene, TX",
+        "medium": "Acrylic",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 80.0,
+        "title": "Abandoned Rail Cars",
+        "artist": "Glen McGraw, Jr",
+        "city": "La Marque, TX",
+        "medium": "Photography on Metal",
+        "price": 175.0
+    },
+    {
+        "winner": "",
+        "number": 81.0,
+        "title": "Trapped Chilean Miner Looking to the Light",
+        "artist": "Jeanie Wakeland",
+        "city": "Walnut Creek, CA",
+        "medium": "Ceramic, Wood",
+        "price": 500.0
+    },
+    {
+        "winner": "",
+        "number": 82.0,
+        "title": "Isolated Step",
+        "artist": "Kristy Kristinek",
+        "city": "Wolfforth, TX",
+        "medium": "Acrylic, House Paint & Chalk Pastel on Canvas",
+        "price": 650.0
+    },
+    {
+        "winner": "",
+        "number": 83.0,
+        "title": "Nurture",
+        "artist": "Janet Jergins",
+        "city": "Abilene, TX",
+        "medium": "Oil",
+        "price": 1700.0
+    },
+    {
+        "winner": "",
+        "number": 84.0,
+        "title": "Flag of my father",
+        "artist": "Chet Urban",
+        "city": "Houston, TX",
+        "medium": "Wood (Milled Lumber, Plywood, Lathe), Ink, Paint, Steel",
+        "price": 1250.0
+    },
+    {
+        "winner": "",
+        "number": 85.0,
+        "title": "The Bouquet",
+        "artist": "Lee Ann Nevius",
+        "city": "Abilene, TX",
+        "medium": "Oil on Canvas",
+        "price": 700.0
+    },
+    {
+        "winner": "",
+        "number": 86.0,
+        "title": "The Protector",
+        "artist": "Kia Gahyun Kim",
+        "city": "McKinney, TX",
+        "medium": "Acrylic",
+        "price": 1250.0
+    },
+    {
+        "winner": "",
+        "number": 87.0,
+        "title": "Creative Thought",
+        "artist": "Brittany Brzymialkiewicz",
+        "city": "Abilene, TX",
+        "medium": "Acrylic",
+        "price": 600.0
+    },
+    {
+        "winner": "",
+        "number": 88.0,
+        "title": "Around the Bend",
+        "artist": "Julie England",
+        "city": "Dallas, TX",
+        "medium": "Oil on Yupo Paper",
+        "price": 3500.0
+    },
+    {
+        "winner": "",
+        "number": 89.0,
+        "title": "Hung/Held",
+        "artist": "Christopher Kanyusik",
+        "city": "Helper, UT",
+        "medium": "Lace, Plaster, Resin, Wood",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 90.0,
+        "title": "Father-Son in Black Rubber",
+        "artist": "Ed Barr",
+        "city": "Dallas, TX",
+        "medium": "Mixed Media",
+        "price": 1800.0
+    },
+    {
+        "winner": "",
+        "number": 91.0,
+        "title": "Off Kilter",
+        "artist": "Lisa Garner",
+        "city": "Southlake, TX",
+        "medium": "Oil on Panel",
+        "price": 950.0
+    },
+    {
+        "winner": "",
+        "number": 92.0,
+        "title": "Shhh\u2026",
+        "artist": "Ashu Gera",
+        "city": "Santa Clarita, CA",
+        "medium": "Oil on Canvas",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 93.0,
+        "title": "Colored Light",
+        "artist": "A. Michelle Fox",
+        "city": "Colorado City, TX",
+        "medium": "Acrylic and Ink",
+        "price": 900.0
+    },
+    {
+        "winner": "",
+        "number": 94.0,
+        "title": "When the Floods Come",
+        "artist": "Patty Rae Wellborn",
+        "city": "Abilene, TX",
+        "medium": "Oil",
+        "price": 1200.0
+    },
+    {
+        "winner": "",
+        "number": 95.0,
+        "title": "Needles",
+        "artist": "Mary Wemple",
+        "city": "Houston, TX",
+        "medium": "Digital Collage",
+        "price": 75.0
+    },
+    {
+        "winner": "",
+        "number": 96.0,
+        "title": "Tension",
+        "artist": "Josiah King",
+        "city": "Faison, NC",
+        "medium": "Oil on Canvas",
+        "price": 400.0
+    },
+    {
+        "winner": "",
+        "number": 97.0,
+        "title": "Field Effects 001",
+        "artist": "Holland Hopson",
+        "city": "Tuscaloosa, AL",
+        "medium": "Inkjet Print",
+        "price": 125.0
+    },
+    {
+        "winner": "",
+        "number": 98.0,
+        "title": "Fear Not Wilderness",
+        "artist": "Kristine Schneider",
+        "city": "The Woodlands, TX",
+        "medium": "Oil on Canvas",
+        "price": 516.0
+    },
+    {
+        "winner": "",
+        "number": 99.0,
+        "title": "Ocean of Stars",
+        "artist": "Kuria Jorissen",
+        "city": "Snohomish, WA",
+        "medium": "Astrophotography on Watercolor Paper Framed",
+        "price": 650.0
+    },
+    {
+        "winner": "",
+        "number": 100.0,
+        "title": "Self portrait at 21",
+        "artist": "Noel Becerra",
+        "city": "Waco, TX",
+        "medium": "Oil paint on Stretched Canvas",
+        "price": 1500.0
+    },
+    {
+        "winner": "",
+        "number": 101.0,
+        "title": "Moonstone",
+        "artist": "Valerie Van Over",
+        "city": "Colleyville, TX",
+        "medium": "Inkjet Print on Archival Paper",
+        "price": 150.0
+    },
+    {
+        "winner": "",
+        "number": 102.0,
+        "title": "El Rey/The King",
+        "artist": "Anthony Pessler",
+        "city": "Phoenix, AZ",
+        "medium": "Egg Tempera and Gold on Panel",
+        "price": 4800.0
+    },
+    {
+        "winner": "",
+        "number": 103.0,
+        "title": "OXO #1",
+        "artist": "Jim Brightwell",
+        "city": "Caddo Mill, TX",
+        "medium": "Poured Concrete/Wall Hung Sculpture",
+        "price": 300.0
+    },
+    {
+        "winner": "",
+        "number": 104.0,
+        "title": "10/3/1970",
+        "artist": "Laura Ahola-Young",
+        "city": "Pocatello, ID",
+        "medium": "Mixed Media",
+        "price": 3000.0
+    },
+    {
+        "winner": "",
+        "number": 105.0,
+        "title": "Amy",
+        "artist": "Teresa Johnston",
+        "city": "Abilene, TX",
+        "medium": "Oil",
+        "price": 1150.0
+    },
+    {
+        "winner": "",
+        "number": 106.0,
+        "title": "Sunset Under Main St Bridge",
+        "artist": "Turner Vinson",
+        "city": "Hamilton, MT",
+        "medium": "Oil",
+        "price": 2000.0
+    },
+    {
+        "winner": "",
+        "number": 107.0,
+        "title": "Contaminated Water #10: Reflections",
+        "artist": "Jean Judd",
+        "city": "Cushing, WI",
+        "medium": "Hand Stitched Thread on Hand Dyed, Rust Pigmented Textile",
+        "price": 9500.0
+    },
+    {
+        "winner": "",
+        "number": 108.0,
+        "title": "Wave of Emotion, Hope Floats | Arkansas River Rising",
+        "artist": "Michelle Reid",
+        "city": "Tulsa, OK",
+        "medium": "Mixed Media, Port Silt, Gold Leaf, Resin on Canvas",
+        "price": 3600.0
+    },
+    {
+        "winner": "",
+        "number": 109.0,
+        "title": "Watering with a Flair",
+        "artist": "Paul Murray",
+        "city": "Jamestown, RI",
+        "medium": "Color Photography",
+        "price": 995.0
+    },
+    {
+        "winner": "",
+        "number": 110.0,
+        "title": "Nudes Need Not Apply",
+        "artist": "Benjamine Lester",
+        "city": "Arlington, TX",
+        "medium": "Oil on Canvas",
+        "price": 1500.0
+    },
+    {
+        "winner": "",
+        "number": 111.0,
+        "title": "Last One In",
+        "artist": "Kara Greenwell",
+        "city": "San Diego, CA",
+        "medium": "Acrylic and mixed media",
+        "price": 650.0
+    },
+    {
+        "winner": "",
+        "number": 112.0,
+        "title": "Lean On Me",
+        "artist": "Neva Cruddas",
+        "city": "Buffalo Gap, TX",
+        "medium": "Pastel",
+        "price": 975.0
+    },
+    {
+        "winner": "",
+        "number": 113.0,
+        "title": "Retribution",
+        "artist": "Elizabeth Bogard",
+        "city": "Abilene, TX",
+        "medium": "Mixed Media",
+        "price": 3000.0
+    },
+    {
+        "winner": "",
+        "number": 114.0,
+        "title": "Between the Lines 3",
+        "artist": "Teresa Harris",
+        "city": "St. Joseph, MO",
+        "medium": "Mixed Media, Paper, Found Objects, Wax, Wood",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 115.0,
+        "title": "Seasons of a lily pond",
+        "artist": "Peggy Shepherd",
+        "city": "Abilene, TX",
+        "medium": "Digital archive",
+        "price": 175.0
+    },
+    {
+        "winner": "",
+        "number": 116.0,
+        "title": "Around Them",
+        "artist": "Kelly Waller",
+        "city": "Flint, TX",
+        "medium": "Mixed Paper",
+        "price": 250.0
+    },
+    {
+        "winner": "",
+        "number": 117.0,
+        "title": "Shanhai-Ching",
+        "artist": "Hairuo Ding",
+        "city": "Rochester, NY",
+        "medium": "Wood, Paper, Resin, Beads, Enamel,silver",
+        "price": 500.0
+    },
+    {
+        "winner": "",
+        "number": 118.0,
+        "title": "American Rustic",
+        "artist": "Hollan Holmes",
+        "city": "Euless, TX",
+        "medium": "Transparent Watercolor",
+        "price": 1400.0
+    },
+    {
+        "winner": "",
+        "number": 119.0,
+        "title": "Sightseeing",
+        "artist": "Steve Butman",
+        "city": "Abilene, TX",
+        "medium": "Digital Photograph Printed on Metallic Canvas",
+        "price": 600.0
+    },
+    {
+        "winner": "",
+        "number": 120.0,
+        "title": "The Towhee that Flutters Least is the Longest on the Wing",
+        "artist": "Isabelle Klauder",
+        "city": "Hendersonville, NC",
+        "medium": "Oil on Canvas",
+        "price": 450.0
+    },
+    {
+        "winner": "",
+        "number": 121.0,
+        "title": "WATER SUPPLY",
+        "artist": "Elizabeth McAlpin",
+        "city": "New York, NY",
+        "medium": "Mixed Media: Etching, Chine Colle, Monotype",
+        "price": 800.0
+    },
+    {
+        "winner": "",
+        "number": 122.0,
+        "title": "C\u1ea7n Th\u01a1 Angel",
+        "artist": "Thu Nguyen",
+        "city": "Kamuela, HI",
+        "medium": "Oil and 24kt Gold Leaf on Panel",
+        "price": 3000.0
+    },
+    {
+        "winner": "",
+        "number": 123.0,
+        "title": "Envy",
+        "artist": "Patricia Shaw",
+        "city": "Chapel Hill, NV",
+        "medium": "Ceramic",
+        "price": 1600.0
+    },
+    {
+        "winner": "",
+        "number": 124.0,
+        "title": "Beach Finds",
+        "artist": "Georgina Rutherford",
+        "city": "Madison, WI",
+        "medium": "Book Arts, Found Material, Maniere Noire Lithograph",
+        "price": 950.0
+    },
+    {
+        "winner": "",
+        "number": 125.0,
+        "title": "Transmission",
+        "artist": "Kevin Stanford",
+        "city": "Eldorado, TX",
+        "medium": "Steel",
+        "price": 475.0
+    },
+    {
+        "winner": "",
+        "number": 126.0,
+        "title": "Chamisa",
+        "artist": "Leslie Macklin",
+        "city": "Alamosa, CO",
+        "medium": "Hand-dug Clay, Slip, Overglaze",
+        "price": 750.0
+    },
+    {
+        "winner": "",
+        "number": 127.0,
+        "title": "Small 262 Wing",
+        "artist": "Kurt Dyrhaug",
+        "city": "Beaumont, TX",
+        "medium": "3D Print and Metal Coating",
+        "price": 800.0
+    },
+    {
+        "winner": "*",
+        "number": 128.0,
+        "title": "Modigliani\u2019s Model and Her Cat",
+        "artist": "Kathie Walker-Millar",
+        "city": "Abilene, TX",
+        "medium": "Ceramic, Mid-range Glazes, Cone 6 Oxidation",
+        "price": 1500.0
+    },
+    {
+        "winner": "",
+        "number": 129.0,
+        "title": "Goddess",
+        "artist": "Lisa Rosenstein",
+        "city": "Washington, DC",
+        "medium": "Newspaper and Water",
+        "price": 1500.0
+    },
+    {
+        "winner": "",
+        "number": 130.0,
+        "title": "Carpool",
+        "artist": "Leslie Miller",
+        "city": "Kensington, CA",
+        "medium": "Clay with Low Fire Glaze",
+        "price": 1000.0
+    },
+    {
+        "winner": "*",
+        "number": 131.0,
+        "title": "Klettern Eifel",
+        "artist": "Thomas Holton",
+        "city": "Temple, TX",
+        "medium": "Ceramic",
+        "price": 2000.0
+    }
+]
