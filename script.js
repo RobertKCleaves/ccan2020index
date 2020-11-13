@@ -16,26 +16,29 @@ function showArt(obj) {
 
   for(let i = 0; i < art_piece.length; i++) {
     const myArticle = document.createElement('article');
-    const myH2 = document.createElement('h2');
+    const myH3 = document.createElement('h3');
     const myPara1 = document.createElement('p');
     const myPara2 = document.createElement('p');
     const myPara3 = document.createElement('p');
+    const line = document.createElement('hr');
 
-  myH2.textContent =
-    artPieces[i].winner + ' ' +
-    artPieces[i].title + ' - ' +
-    artPieces[i].artist;
-  myPara1.textContent = 'City: ' + artPieces[i].city;
-  myPara2.textContent = 'Medium: ' + artPieces[i].medium;
-  myPara3.textContent = 'Price: ' + artPieces[i].price;
-  }
+  myH3.textContent =
+    art_piece[i].winner + ' ' +
+    art_piece[i].number + ' ' +
+    art_piece[i].title + ' - ' +
+    art_piece[i].artist;
+  myPara1.textContent = 'City: ' + art_piece[i].city;
+  myPara2.textContent = 'Medium: ' + art_piece[i].medium;
+  myPara3.textContent = 'Price: $' + art_piece[i].price;
 
-    myArticle.appendChild(myH2);
+
+    myArticle.appendChild(myH3);
     myArticle.appendChild(myPara1);
     myArticle.appendChild(myPara2);
     myArticle.appendChild(myPara3);
-    myArticle.appendChild(myList);
+    myArticle.appendChild(line);
 
     section.appendChild(myArticle);
 
+  }
 }
