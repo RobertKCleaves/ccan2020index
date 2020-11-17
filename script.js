@@ -1,7 +1,7 @@
 const section = document.querySelector('section');
 const aside = document.querySelector('aside');
 
-let requestURL = 'https://spacemanrc.github.io/ccan2020index/ccan2020index.json';
+let requestURL = 'ccan2020index.json';
 let request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
