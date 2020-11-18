@@ -54,6 +54,11 @@
     font-weight: bold;
     margin: 5%;
   }
+  h4 {
+    display: inline;
+    font-size: 14pt;
+    font-weight: bold;
+  }
   ul {
     list-style-type: none;
     margin-top: 4px;
@@ -67,6 +72,22 @@
     display: block;
     margin: 50px auto 20px auto;
     width: 70%;
+  }
+
+   input[type=text] {
+      width: 30%;
+      -webkit-transition: width 0.15s ease-in-out;
+      transition: width 0.15s ease-in-out;
+   }
+
+   /* When the input field gets focus,
+        change its width to 100% */
+   input[type=text]:focus {
+     width: 70%;
+   }
+
+.animals{
+   display: list-item;
   }
 
 }
