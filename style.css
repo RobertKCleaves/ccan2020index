@@ -1,10 +1,12 @@
-@media screen and (max-width: 1080px){
+@media screen and (max-width: 300040px){
   @font-face {
     font-family: Avenir;
     src: url(Metropolis-Regular.otf);
   }
+  header {
+    padding-bottom: 40px;
+  }
   div{
-    margin-bottom: 20px;
     font-family: 'Avenir';
   }
   h1 {
@@ -18,12 +20,12 @@
   }
   h3 {
     font-size: 12pt;
-    margin-left: 2%;
+    margin-left: 8%;
     font-weight: bold;
   }
   p {
     font-size: 10pt;
-    margin-left: 5%;
+    margin-left: 10%;
   }
   img {
     display: block;
