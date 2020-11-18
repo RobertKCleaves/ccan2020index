@@ -1,14 +1,9 @@
-function search_number() {
-  let input = document.getElementById('searchbar').value
-    input=input.toLowerCase();
-    let x = document.getElementsByClassName('piece');
-
-    for (i = 0; i < x.length; i++) {
-        if (!x[i].innerHTML.toLowerCase().includes(input)) {
-            x[i].style.display="none";
-        }
-        else {
-            x[i].style.display="list-item";
-        }
-    }
-}
+$(document).ready(function(){
+  $("#searchbar").on("keyup", function() {
+    console.log('hello?')
+    var value = $(this).val().toLowerCase();
+    $("h3").filter(function() {
+      $("a").toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
