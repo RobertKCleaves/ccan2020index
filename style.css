@@ -1,105 +1,84 @@
+@font-face {
+  font-family: Avenir;
+  src: url(Metropolis-Regular.otf);
+}
 
+body {
+  font-family: 'Avenir';
+}
 
-@media screen and (max-width: 300040px){
-  @font-face {
-    font-family: Avenir;
-    src: url(Metropolis-Regular.otf);
-  }
+header {
+  padding-bottom: 40px;
+}
 
-  body {
-    font-family: 'Avenir';
-  }
-/*-------------------- Sticky Footer -----------------------------------------*/
-  .sticky-footer {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background: dimgray;
-  }
+h1 {
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+}
 
-  #num{
-      font-size: 20px;
-      text-align: left;
-      font-weight: bold;
-      color: white;
-      margin: auto;
-      margin-top: 10px;
-      margin-bottom: 10px;
-      margin-right: 10px;
-  }
+h2 {
+  text-align: center;
+  font-size: 20pt;
+}
 
-  input {
-    width: 40px;
-    margin-right: 50%
-  }
-
-  /*----------------- Regular ------------------------------------------------*/
-  header {
-    padding-bottom: 40px;
-  }
-
-  h1 {
-    margin-top: 20px;
-    text-align: center;
-    font-weight: bold;
-  }
-  h2 {
-    text-align: center;
-    font-size: 20pt;
-  }
-  h3 {
-    font-size: 14pt;
+h3 {
+  font-size: 14pt;
     /* margin-left: 8%; */
-    font-weight: bold;
-    margin: 5%;
-  }
-  h4 {
-    display: inline;
-    font-size: 14pt;
-    font-weight: bold;
-  }
-  ul {
-    list-style-type: none;
-    margin-top: 4px;
-    margin-bottom: -4px;
-  }
-  li {
-    font-size: 12pt;
-    margin-left: 5%;
-  }
-  img {
-    display: block;
-    margin: 50px auto 20px auto;
-    width: 70%;
-  }
+  font-weight: bold;
+  margin: 5%;
+}
 
+h4 {
+  display: inline;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 4px;
+  margin-bottom: -4px;
+}
+
+li {
+  font-size: 12pt;
+  margin-left: 5%;
+}
+
+img {
+  display: block;
+  margin: 50px auto 20px auto;
+  width: 70%;
+}
+
+/* Once the screen gets above 700 pixels */
 @media screen and (min-width: 700px) {
   img {
     width: 40%;
     margin-top: 10%;
   }
+
   h3 {
     font-size: 14pt;
     font-weight: bold;
     margin: 1%;
     margin-left: 5%;
   }
+
   h4 {
     display: inline;
     font-size: 14pt;
     font-weight: bold;
   }
+
   ul {
     list-style-type: none;
     margin-top: 2px;
     margin-bottom: -2px;
   }
+
   li {
     font-size: 12pt;
     margin-left: 5%;
   }
-
-}
