@@ -1,3 +1,5 @@
+
+
 @media screen and (max-width: 300040px){
   @font-face {
     font-family: Avenir;
@@ -74,21 +76,30 @@
     width: 70%;
   }
 
-   input[type=text] {
-      width: 30%;
-      -webkit-transition: width 0.15s ease-in-out;
-      transition: width 0.15s ease-in-out;
-   }
-
-   /* When the input field gets focus,
-        change its width to 100% */
-   input[type=text]:focus {
-     width: 70%;
-   }
-
-.animals{
-   display: list-item;
+@media screen and (min-width: 700px) {
+  img {
+    width: 40%;
+    margin-top: 10%;
+  }
+  h3 {
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 1%;
+    margin-left: 5%;
+  }
+  h4 {
+    display: inline;
+    font-size: 14pt;
+    font-weight: bold;
+  }
+  ul {
+    list-style-type: none;
+    margin-top: 2px;
+    margin-bottom: -2px;
+  }
+  li {
+    font-size: 12pt;
+    margin-left: 5%;
   }
 
 }
-/* ------------------------------*/
