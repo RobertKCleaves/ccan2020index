@@ -1,12 +1,10 @@
-# ccan2020index
+# CCAN 2020 Index
 
-### Built for the Center of Contemporary Arts National Juried Competition 2020
+### Built for the Center of Contemporary Arts National Juried Competition 2020 (CCAN 2020)
 
 [The Center for Contemporary Arts](https://center-arts.com), Abilene, Texas
 
 !["CCAN 2020"](https://github.com/RobertKCleaves/ccan2020index/blob/main/assets/ccan_gallery_picture.jpg)
-
-
 
 With more than 130 pieces in our gallery, we had to number each art piece and print an index. Due to COVID, high-contact surfaces like pamphlets were a concern so we printed a QR code and hosted the PDF of the index. I built this mobile-friendly site in lieu of the static PDF.
 
@@ -28,7 +26,3 @@ Picked up the most of the CSS work.
 Finally, I hosted it on Github Pages with a [ccan.art*](ccan.art) domain name so to not scare guests who aren't familiar with a `github.io` URL when it pops up after the QR code is scanned.
 
 \* - Soon to be defunct
-
-
-
-##
