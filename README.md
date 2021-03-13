@@ -27,6 +27,6 @@ Then I used [jQuery's](https://jqueryui.com/accordion/)  `accordion` UI function
 Picked up the most of the CSS work.
 
 ## ccan.art 🌐
-Finally, I hosted it on Github Pages with a [ccan.art*](ccan.art) domain name so to not scare guests who aren't familiar with a `github.io` URL when it pops up after the QR code is scanned.
+Finally, I hosted it on Github Pages with a [ccan.art*](http://ccan.art) domain name so to not scare guests who aren't familiar with a `github.io` URL when it pops up after the QR code is scanned.
 
 \* - Soon to be defunct
