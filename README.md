@@ -1,5 +1,5 @@
 # CCAN 2020 Index
-<img src="https://img.shields.io/static/v1?label=No%20Maintenance%20Intended&message=X&color=red&style=for-the-badge" /><img src= "assets/lighthouse.svg" /><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/static/v1?label=No%20Maintenance%20Intended&message=X&color=red&style=for-the-badge" /> <img src= "assets/lighthouse.svg" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  
 
 ### Built for the Center of Contemporary Arts National Juried Competition 2020 (CCAN 2020)
