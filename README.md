@@ -6,8 +6,7 @@
 </p>
 
 ### Built for the Center of Contemporary Arts National Juried Competition 2020 (CCAN 2020)
-
-[The Center for Contemporary Arts](https://center-arts.com), Abilene, Texas
+#### [The Center for Contemporary Arts](https://center-arts.com), Abilene, Texas
 
 
 With more than 130 pieces in our gallery, we had to number each art piece and print an index. Due to COVID, high-contact surfaces like pamphlets were a concern, so we printed a QR code and hosted the PDF of the index. I built this mobile-friendly site in lieu of the static PDF.
