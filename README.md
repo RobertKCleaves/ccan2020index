@@ -1,14 +1,14 @@
 # CCAN 2020 Index
 <img src="https://img.shields.io/static/v1?label=No%20Maintenance%20Intended&message=X&color=red&style=for-the-badge" /> <img src= "assets/lighthouse.svg" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
  
+<p align="center">
+  <img style="object-fit: cover;" src="https://github.com/RobertKCleaves/ccan2020index/blob/main/assets/ccan_gallery_picture.jpg" alt="CCAN 2020">
+</p>
 
 ### Built for the Center of Contemporary Arts National Juried Competition 2020 (CCAN 2020)
 
 [The Center for Contemporary Arts](https://center-arts.com), Abilene, Texas
 
-<p align="center">
-  <img style="object-fit: cover;" src="https://github.com/RobertKCleaves/ccan2020index/blob/main/assets/ccan_gallery_picture.jpg" alt="CCAN 2020">
-</p>
 
 With more than 130 pieces in our gallery, we had to number each art piece and print an index. Due to COVID, high-contact surfaces like pamphlets were a concern, so we printed a QR code and hosted the PDF of the index. I built this mobile-friendly site in lieu of the static PDF.
 
